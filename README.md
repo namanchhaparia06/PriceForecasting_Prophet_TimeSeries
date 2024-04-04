@@ -60,11 +60,13 @@ Prophet fits the model to the historical data using a Markov chain Monte Carlo (
 Once the model is fitted to the historical data, Prophet can be used to generate forecasts for future time periods. It provides point forecasts as well as uncertainty intervals (e.g., confidence intervals) around the forecasts to quantify prediction uncertainty.
 
 
-## Performmance Evaluation
+## Performance Evaluation
 
 We’ve evaluated the performance of our Prophet model on MAPE metric. Mean absolute percentage error expresses accuracy as a percentage of the error. Because this number is a percentage, it can be easier to understand than the other statistics. For example, if the MAPE is 5, on average, the forecast is off by 5%.
 
 In our model, when taking horizon = 365 days and period = 180 days, we obtained a MAPE score ranging from 0.1 to 0.3.
+
+<img src="" alt="Residual Plot" />![download](https://github.com/NamanChh/PriceForecasting_Prophet_TimeSeries/assets/142370244/3aff9f80-6544-448b-8bf1-16d6a29c3489)
 
 
 This graph shows our predicted values (yhat) vs the residual values. We can see that the values are centered around 0. This shows that our model has low residuals and it is performing well.
