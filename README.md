@@ -11,11 +11,18 @@ A project done for the course Machine Learning under <a href="https://github.com
 
 ## ABSTRACT
 
-Predictive maintenance is a technique used to predict when equipment or machinery is likely to fail so that maintenance can be performed just in time to prevent the failure from occurring. It utilizes machine learning and statistical modeling techniques to analyze data collected from sensors, equipment logs, historical maintenance records, and other sources to predict potential failures or breakdowns.
+The Avocado price forecasting project aims to predict future prices of avocados, which can have
+various applications in the agricultural industry, retail sector, and food supply chain management.
+Predicting avocado prices can assist farmers in planning their harvest and sales strategies, help
+retailers in managing their inventory and pricing strategies, and enable consumers to make
+informed purchasing decisions.
 
-Model Used: <b>Random Forest Classifier</b>
+Model Used: <b>PROPHET TIME SERIES</b>
 
 ## Dataset Overview
+
+Dataset Link: <a href="https://www.kaggle.com/datasets/neuromusic/avocado-prices"> Avocado Dataset</a></li>
+
 The dataset provided by the UCI repository is synthetic and mirrors real predictive maintenance scenarios encountered in industries. It comprises 10,000 data points stored as rows, each containing 14 features in columns.
 
 ## Features
