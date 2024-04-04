@@ -42,7 +42,7 @@ Some relevant columns in the dataset:
 
 Prophet is an additive model consisting of four components:
 
-<img src="https://www.google.com/imgres?q=prophet%20equation&imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5bce4071ab1a620db382773e%2F1625500457398-BF8AHHUZWGKTLMN1RXOH%2Fprophet_formula.png&imgrefurl=https%3A%2F%2Fwww.advancinganalytics.co.uk%2Fblog%2F2021%2F07%2F05%2Ffacebook-prophet-and-the-stock-market-part-1&docid=5DRddudhOJpnuM&tbnid=tmm7Ur6ZxHd21M&vet=12ahUKEwjdwtza56eFAxXkk1YBHYZLAdUQM3oECHgQAA..i&w=692&h=150&hcb=2&ved=2ahUKEwjdwtza56eFAxXkk1YBHYZLAdUQM3oECHgQAA" />
+<img src="https://www.google.com/imgres?q=prophet%20equation&imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5bce4071ab1a620db382773e%2F1625500457398-BF8AHHUZWGKTLMN1RXOH%2Fprophet_formula.png&imgrefurl=https%3A%2F%2Fwww.advancinganalytics.co.uk%2Fblog%2F2021%2F07%2F05%2Ffacebook-prophet-and-the-stock-market-part-1&docid=5DRddudhOJpnuM&tbnid=tmm7Ur6ZxHd21M&vet=12ahUKEwjdwtza56eFAxXkk1YBHYZLAdUQM3oECHgQAA..i&w=692&h=150&hcb=2&ved=2ahUKEwjdwtza56eFAxXkk1YBHYZLAdUQM3oECHgQAA"/>
 
 Let us discuss the meaning of each component:
 
