@@ -1,12 +1,5 @@
 # Price Prediction using Prophet Time Series
 
-A project done for the course Machine Learning under <a href="https://github.com/radhikachapaneri"><b>Dr. Radhika Chapaneri</b> 
-<h3>Team members</h3>
-<ul>
-
-<li><b>NAMAN CHHAPARIA I040</b> Github: <a href="https://github.com/NamanChh">NamanChh</a></li>
-
-
 </ul>
 
 ## ABSTRACT
